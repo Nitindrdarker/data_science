@@ -1,0 +1,3 @@
+Q1 : Who are the top 10 batsmen that has the best strike rate that scored more than 1,000 runs?
+Q2 answer = 44 batsmen have scored 100 runs or more against a single bowler
+3.Which batsman has the highest boundary percentage per total runs in the powerplay overs, limited to 100 runs?¶¶
